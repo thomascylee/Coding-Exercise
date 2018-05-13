@@ -1,0 +1,12 @@
+table { 
+    border-collapse: collapse; 
+}
+
+table td, table th {
+    padding: .75rem;
+    vertical-align: top;
+}
+
+.redBorder{
+    border: 1px solid red;
+}
